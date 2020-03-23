@@ -39,7 +39,7 @@ class _PlayStationDetailState extends State<PlayStationDetail> {
                     style: TextStyle(color: Colors.white),
                   ),
                   Padding(
-                    padding: const EdgeInsets.only(top: 400),
+                    padding: const EdgeInsets.only(top: 370),
                     child: RaisedButton(
                       onPressed: () => debugPrint("pess"),
                       color: Colors.blueAccent,
